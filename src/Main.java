@@ -1,6 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// 디자인 패턴 연습
     }
 }
